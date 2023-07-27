@@ -29,4 +29,6 @@
 
 14. Technical Documentation PageCertification Project [Cliquez ici pour accéder à JS Documentation](https://js-documentation.mboucherba31stu.repl.co)
 
-15. Learn CSS Variables by Building a City Skyline [Cliquez ici pour accéder à ](https://city-skyline.mboucherba31stu.repl.co)
+15. Learn CSS Variables by Building a City Skyline [Cliquez ici pour accéder à City Skyline](https://city-skyline.mboucherba31stu.repl.co)
+
+16. Learn CSS Grid by Building a Magazine [Cliquez ici pour accéder à Magazine](https://magazine.mboucherba31stu.repl.co)
