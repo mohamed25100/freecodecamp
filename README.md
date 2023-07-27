@@ -32,3 +32,5 @@
 15. Learn CSS Variables by Building a City Skyline [Cliquez ici pour accéder à City Skyline](https://city-skyline.mboucherba31stu.repl.co)
 
 16. Learn CSS Grid by Building a Magazine [Cliquez ici pour accéder à Magazine](https://magazine.mboucherba31stu.repl.co)
+
+17. Product Landing PageCertification Project [Cliquez ici pour accéder à Handcrafted](https://handcrafted.mboucherba31stu.repl.co)
