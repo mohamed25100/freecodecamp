@@ -25,6 +25,8 @@
 
 12. Learn Intermediate CSS by Building a Picasso Painting, Completed: [Cliquez ici pour accéder à Picasso Painting](https://picasso-painting.mboucherba31stu.repl.co)
 
-13. Learn Intermediate CSS by Building a Picasso Painting, Completed: [Cliquez ici pour accéder à Piano](https://piano.mboucherba31stu.repl.co)
+13. Learn Responsive Web Design by Building a Piano: [Cliquez ici pour accéder à Piano](https://piano.mboucherba31stu.repl.co)
 
 14. Technical Documentation PageCertification Project [Cliquez ici pour accéder à JS Documentation](https://js-documentation.mboucherba31stu.repl.co)
+
+15. Learn CSS Variables by Building a City Skyline [Cliquez ici pour accéder à ](https://city-skyline.mboucherba31stu.repl.co)
