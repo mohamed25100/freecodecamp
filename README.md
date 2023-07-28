@@ -34,3 +34,5 @@
 16. Learn CSS Grid by Building a Magazine [Cliquez ici pour accéder à Magazine](https://magazine.mboucherba31stu.repl.co)
 
 17. Product Landing PageCertification Project [Cliquez ici pour accéder à Handcrafted](https://handcrafted.mboucherba31stu.repl.co)
+
+18. Learn CSS Animation by Building a Ferris Wheel [Cliquez ici pour accéder à Ferris Wheel](https://ferris-wheel.mboucherba31stu.repl.co)
